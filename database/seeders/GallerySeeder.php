@@ -21,5 +21,3 @@ class GallerySeeder extends Seeder
         }
     }
 }
-EOF
-echo "done" 2>&1 | tail -1

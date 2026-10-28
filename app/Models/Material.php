@@ -14,5 +14,3 @@ class Material extends Model
         return $this->belongsTo(Course::class);
     }
 }
-EOF
-echo "done" 2>&1 | tail -1

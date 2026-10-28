@@ -3,9 +3,8 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
-use Illuminate\Http\Request;
 
-class \MaterialController extends Controller
+class MaterialController extends Controller
 {
     //
 }
